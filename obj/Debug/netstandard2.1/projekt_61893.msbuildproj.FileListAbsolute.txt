@@ -1,0 +1,7 @@
+C:\Users\Użytkownik\source\repos\projekt_61893\projekt_61893\projekt_61893\bin\Debug\netstandard2.1\projekt_61893.deps.json
+C:\Users\Użytkownik\source\repos\projekt_61893\projekt_61893\projekt_61893\bin\Debug\netstandard2.1\projekt_61893.dll
+C:\Users\Użytkownik\source\repos\projekt_61893\projekt_61893\projekt_61893\bin\Debug\netstandard2.1\projekt_61893.pdb
+C:\Users\Użytkownik\source\repos\projekt_61893\projekt_61893\projekt_61893\obj\Debug\netstandard2.1\projekt_61893.msbuildproj.AssemblyReference.cache
+C:\Users\Użytkownik\source\repos\projekt_61893\projekt_61893\projekt_61893\obj\Debug\netstandard2.1\projekt_61893.msbuildproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\source\repos\projekt_61893\projekt_61893\projekt_61893\obj\Debug\netstandard2.1\projekt_61893.dll
+C:\Users\Użytkownik\source\repos\projekt_61893\projekt_61893\projekt_61893\obj\Debug\netstandard2.1\projekt_61893.pdb

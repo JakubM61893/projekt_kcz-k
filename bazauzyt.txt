@@ -1,0 +1,12 @@
+﻿Create table Użytkownicy (
+    UżytkownikID Int UNSIGNED NOT NULL AUTO_INCREMENT,
+    login Varchar(20) NOT NULL,
+    haslo Varchar(30) NOT NULL,
+    email Varchar(100) NOT NULL,
+ Primary Key (UżytkownikID)) ENGINE = InnoDB;
+
+INSERT INTO Użytkownicy (UżytkownikID, login, haslo, email) VALUES
+(1, 'kubaa', 'qwerty', 'kubaa@o2.pl'),
+(2, 'basienka', 'xdert', 'basienka@onet.pl'),
+(3, 'wwoop', 'mniop', 'wwooop@gmail.com'),
+(4, 'qwer', 'ubi', 'qwer@o2.pl');

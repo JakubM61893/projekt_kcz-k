@@ -1,0 +1,11 @@
+﻿Create table PS5 (
+PS5ID Int UNSIGNED NOT NULL AUTO_INCREMENT,
+tytuł Varchar(20) NOT NULL,
+wydawca Varchar(20) NOT NULL,
+rok_premiery Int(4) NOT NULL,
+Primary Key (PS5ID)) ENGINE = InnoDB;
+
+INSERT INTO PS5 (PS5ID, tytuł, wydawca, rok_premiery) VALUES
+(1, 'Dying Light 2', 'Techland', '2022'),
+(2, 'FIFA 22', 'Electronic Arts', '2021'),
+(3, 'Cyberpunk 2077', 'CD Projekt Red', '2020');

@@ -1,0 +1,11 @@
+Create table PS4 (
+PS4ID Int UNSIGNED NOT NULL AUTO_INCREMENT,
+tytuł Varchar(20) NOT NULL,
+wydawca Varchar(20) NOT NULL,
+rok_premiery Int(4) NOT NULL,
+Primary Key (PS4ID)) ENGINE = InnoDB;
+
+INSERT INTO PS4 (PS4ID, tytuł, wydawca, rok_premiery) VALUES
+(1, 'Uncharted 4', 'Sony CE', '2016'),
+(2, 'FIFA 22', 'Electronic Arts', '2021'),
+(3, 'Cyberpunk 2077', 'CD Projekt Red', '2020');
